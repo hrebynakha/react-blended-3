@@ -1,4 +1,4 @@
-import Heading from './components/Heading/Heading';
+
 import { lazy, Suspense } from 'react';
 
 import { Routes, Route, Navigate } from 'react-router-dom';
